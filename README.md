@@ -29,7 +29,7 @@ Config file for Flake8. `line-length=88` is to prevent conflict with black.
 Prevent files/directory from being committed into VCS.
 
 ### .pre-commit-config.yaml
-List of pre commit hooks for code quality check. For `sb-git-hooks` to work, you need to install the hooks locally [following this guide](https://shopadmin.atlassian.net/wiki/spaces/DATA/pages/1283260417/Prevent+Secrets+from+Being+Committed+into+Git).
+List of pre commit hooks for code quality check. Need to locally install the pre-commit hooks with `pre-commit install`
 
 ### Makefile
 It has few preconfigured target for basic code checking:
