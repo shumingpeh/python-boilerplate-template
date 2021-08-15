@@ -1,5 +1,5 @@
 # Python Boilerplate
-Python Boilerplate to kick start your project with settings aligned to Data Team standards.
+Python Boilerplate to kick start your project with settings aligned to good coding standards.
 
 ## What it is
 * A starting point for any generic project
